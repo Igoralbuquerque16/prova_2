@@ -1,0 +1,30 @@
+header{
+    background-color: black;
+    color:blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 0px;
+    text-align: center;
+}
+*{
+    margin: 0px;
+}
+li{
+    list-style-type: none;
+    text-decoration: double;
+}
+div{
+    background-color: black;
+    
+    
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    color:blue;
+    font-weight: bolder;
+}
+img{
+    width: 250px;
+    border-color: blue;
+    
+}
